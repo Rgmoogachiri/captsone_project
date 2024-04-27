@@ -1,5 +1,8 @@
 # STOCK MARKET FORECASTING
-![stock](https://github.com/Rgmoogachiri/captsone_project/blob/main/stock%20market%20image.jpg) 
+
+<p align="center">
+  <img src="https://github.com/Rgmoogachiri/captsone_project/blob/main/stock%20market%20image.jpg" alt="Stock Market">
+</p>
 
 # Introduction
 A time series project done by 6 moringa school students.
