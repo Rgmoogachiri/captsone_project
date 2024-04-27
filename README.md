@@ -1,5 +1,6 @@
 # STOCK MARKET FORECASTING
-![stock](stock market image.jpg) 
+![stock](https://github.com/Rgmoogachiri/captsone_project/blob/main/stock%20market%20image.jpg) 
+
 # Introduction
 A time series project done by 6 moringa school students.
 The project aims to  bridge the gap between raw data and strategic decision-making. It will help in providing stakeholders in the financial sector with robust predictive tools, we can help them navigate the intricate landscape of the stock market more effectively/ 
