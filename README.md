@@ -9,14 +9,6 @@ The stock market landscape in Kenya has undergone significant expansion in recen
 
 In response, StockTech is embarking on a mission to redefine user engagement through innovative technological solutions. By deploying cutting-edge predictive modeling techniques, StockTech aims to offer customized stock market predictions, effectively meeting the escalating demand for personalized investment guidance in the Kenyan financial sector/
 
-# Contributors
-- Alice Nyamngo
-- Laura Mutheu
-- Emmanuellar Karisa
-- Richard Muriithi
-- Chepkemoi Ruto
-- Daniel  Muriithi
-
 # Business Objectives
 The **main objective** of this study is to develop predictive models leveraging real-time and historical stock market data to enhance decision-making processes for investors and traders. Other objectives are to:
 1.	Bridge the gap between raw financial data and strategic decision-making by providing stakeholders with actionable insights derived from advanced data analysis techniques.
@@ -58,4 +50,12 @@ More information can be found in the description below.
 - Through pioneering innovative approaches and methodologies, the study aims to redefine the boundaries of predictive analytics in finance, driving tangible value and sustainable growth within the ecosystem.
 
 Ultimately, this endeavor represents a significant step towards reshaping the landscape of finance, fostering resilience and efficiency in markets while empowering stakeholders to make informed decisions in an ever-changing environment.
+
+# Contributors
+- Alice Nyamngo
+- Laura Mutheu
+- Emmanuellar Karisa
+- Richard Muriithi
+- Chepkemoi Ruto
+- Daniel  Muriithi
 
