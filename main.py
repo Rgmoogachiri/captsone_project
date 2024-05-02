@@ -10,7 +10,8 @@ import pandas as pd
 # Define constants
 START = "2015-01-01"
 TODAY = date.today().strftime("%Y-%m-%d")
-STOCKS = ('TSLA', 'AMZN', 'BRK.B', 'FB', 'MSFT', 'NVDA', 'CRM', 'GOOG')
+STOCKS = ('TSLA', 'AMZN', 'BRK.B', 'FB', 'MSFT', 'NVDA', 'CRM', 'GOOG', 'NFLX', 'INTC'
+          , 'CSCO', 'ADBE', 'BAC', 'XOM')
 
 # Function to load data
 @st.cache_data
