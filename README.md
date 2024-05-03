@@ -29,7 +29,7 @@ The model performances are:
 | Autoregressive Model                          | 3248.458  | 3260.124  |
 | Autoregressive Moving Averages                | 3250.417  | 3265.972  |
 | Autoregressive Integrated Moving Averages     | 3242.061  | 3253.719  |
-| Seasonal AutoRegressive Moving Average Model  | 4454.614  | 4462.324  |
+| Seasonal AutoRegressive Moving Average Model  | 3102.358  | 3105.831  |
 
 More information can be found in the description below.
 
