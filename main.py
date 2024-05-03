@@ -1,12 +1,13 @@
 import streamlit as st
-import yfinance as yf
 from datetime import date
 from prophet import Prophet
 from prophet.plot import plot_plotly
 import plotly.graph_objs as go
 import base64
 import pandas as pd
-
+import appdirs as ad
+ad.user_cache_dir = lambda *args: "/tmp"
+import yfinance as yf
 # Define constants
 start_date = "2015-01-01"
 today = date.today().strftime("%Y-%m-%d")
