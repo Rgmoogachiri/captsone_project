@@ -7,7 +7,7 @@
 # Overview
 The stock market landscape in Kenya has undergone significant expansion in recent times, driven by factors such as improved internet connectivity and a growing inclination towards personalized investment experiences. As investors increasingly seek tailored financial insights, companies like StockTech is confronted with the imperative of elevating user engagement to stay competitive.
 
-In response, StockTech is embarking on a mission to redefine user engagement through innovative technological solutions. By deploying cutting-edge predictive modeling techniques, StockTech aims to offer customized stock market predictions, effectively meeting the escalating demand for personalized investment guidance in the Kenyan financial sector/
+In response, StockTech is embarking on a mission to redefine user engagement through innovative technological solutions. By deploying cutting-edge predictive modeling techniques, StockTech aims to offer customized stock market predictions, effectively meeting the escalating demand for personalized investment guidance in the Kenyan financial sector.
 
 # Business Objectives
 The **main objective** of this study is to develop predictive models leveraging real-time and historical stock market data to enhance decision-making processes for investors and traders. Other objectives are to:
